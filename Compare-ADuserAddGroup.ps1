@@ -20,6 +20,7 @@
     Name: Compare-ADuserAddGroup.ps1
     Author: Jaap Brasser
     DateCreated: 14-03-2012
+	.
 
 .EXAMPLE   
 	.\Compare-ADuserAddGroup.ps1 testuserabc123 testuserabc456
